@@ -1,6 +1,9 @@
 Catello
 =======
 
+[![Build Status](https://travis-ci.org/Catello/catello.svg?branch=master)](https://travis-ci.org/Catello/catello)
+
+
 Have you ever thought to yourself, "hmmm, this system administration stuff is too easy." Enter Catello.
 
 
