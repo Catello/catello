@@ -1,5 +1,5 @@
-Catello
-=======
+Pet + Cattle = Catello
+======================
 
 [![Build Status](https://travis-ci.org/Catello/catello.svg?branch=master)](https://travis-ci.org/Catello/catello)
 
