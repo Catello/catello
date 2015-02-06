@@ -9,6 +9,14 @@ Have you ever thought to yourself, "hmmm, this system administration stuff is to
 
 ![Attack!](http://www.catster.com/files/big-cat-castle.jpg)
 
+
+Catello Dev Hard at work
+=======================
+
+![Hard at work](http://rs209.pbsrc.com/albums/bb252/Rendi4Fun/Cat%20Clipart/castlecat.gif~c200)
+
+
+
 Steps
 -----
 
