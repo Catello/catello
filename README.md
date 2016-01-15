@@ -15,6 +15,10 @@ Here is a developer hard at work building Catello:
 
 ![Hard at work](http://rs209.pbsrc.com/albums/bb252/Rendi4Fun/Cat%20Clipart/castlecat.gif~c200)
 
+Here is one of our users using Catello:
+=======================
+
+![User](user.gif)
 
 
 Steps
