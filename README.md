@@ -20,6 +20,15 @@ Here is one of our users using Catello:
 
 ![User](user.gif)
 
+Why we made Catello:
+=======================
+
+![Rats](rats.jpg)
+
+
+What Catello can do for you:
+=======================
+![Cat in Armor](cat-armor.jpg)
 
 Steps
 -----
@@ -27,3 +36,4 @@ Steps
 1. Install catello
 2. ???
 3. Profit!
+
