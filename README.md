@@ -30,6 +30,10 @@ What Catello can do for you:
 =======================
 ![Cat in Armor](cat-armor.jpg)
 
+How to add a feature to Catello:
+============================
+![Add a Feature](adding_feature.jpg)
+
 Steps
 -----
 
