@@ -34,6 +34,10 @@ How to add a feature to Catello:
 ============================
 ![Add a Feature](adding_feature.jpg)
 
+Catello is backed by candlepin that our users love:
+============================
+![Candlepin](cattlepin.jpg)
+
 Steps
 -----
 
