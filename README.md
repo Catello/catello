@@ -46,6 +46,7 @@ A word of warning:
 ==================
 ![Use No Fork Lifts](no_forklifts.jpg)
 ![Prohibit Use Of Forklift](prohibit_forklift.jpg)
+Please use [catlift](https://github.com/Catello/catlift) instead.
 
 Steps
 -----
