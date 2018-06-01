@@ -42,6 +42,11 @@ Catello is backed by candlepin that our users love:
 ============================
 ![Candlepin](cattlepin.jpg)
 
+A word of warning:
+==================
+![Use No Fork Lifts](no_forklifts.jpg)
+![Prohibit Use Of Forklift](prohibit_forklift.jpg)
+
 Steps
 -----
 
