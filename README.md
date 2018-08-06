@@ -25,10 +25,14 @@ Why we made Catello:
 
 ![Rats](rats.jpg)
 
-
 What Catello can do for you:
 =======================
 ![Cat in Armor](cat-armor.jpg)
+
+How we fix bugs in Catello:
+===========================
+
+![Fix a bug](fix_a_bug.jpg)
 
 How to add a feature to Catello:
 ============================
