@@ -52,6 +52,10 @@ A word of warning:
 ![Prohibit Use Of Forklift](prohibit_forklift.jpg)
 Please use [catlift](https://github.com/Catello/catlift) instead.
 
+How to measure your Catello usage:
+=================================
+![Chonk chart](chonk.jpg)
+
 Steps
 -----
 
