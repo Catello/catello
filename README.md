@@ -42,6 +42,11 @@ Catello wouldn't be possible without 4MAN:
 ============================
 ![4MAN](4man.jpg)
 
+Catello should be run multi-threaded
+====================================
+
+![Thread](thread.jpg)
+
 Catello is backed by candlepin that our users love:
 ============================
 ![Candlepin](cattlepin.jpg)
