@@ -29,6 +29,10 @@ What Catello can do for you:
 =======================
 ![Cat in Armor](cat-armor.jpg)
 
+How Catello stores content on disk:
+===================================
+![Cat Storage](cat_stor.jpg)
+
 How we fix bugs in Catello:
 ===========================
 
